@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Pablo Sáez Reyes and I'm currently a second year math major and computer science major student at Polythecnic University of Catalonia.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+One of my main hobbies is competitive programming. My username on most competitive programming platforms is Pablo-No, here are some links to my profiles:
 
+- [Codeforces](https://codeforces.com/profile/Pablo-No)
+- [AtCoder](https://atcoder.jp/users/PabloNo)
+- [CodeChef](https://www.codechef.com/users/pablo_no)
 
-[jekyll-organization]: https://github.com/jekyll
+Some of my achievements include a bronze medal at IOI 2023 and being world finalist at ICPC 2024.
+
+This blog is a way to share some ideas, alternative solutions to problems, or anything related to Competitive Programming.
