@@ -5,7 +5,7 @@ title:  "A linear time solution for CF1998E2"
 
 This article discusses the problem [CF1998E2 Eliminating Balls With Merging (Hard Version)](https://codeforces.com/contest/1998/problem/E2).
 I will not describe the official solution in $$\mathcal{O}(n\log n)$$, which I couldn't come up with (if you are interested you can read the editorial).
-Instead, I will describe a linear time solution using traps. The solution doesn't need to actually write the trap, so it is very fast and simple to implement.
+Instead, I will describe a linear time solution using treaps. The solution doesn't need to actually write the treap, so it is very fast and simple to implement.
 
 I am not the only one that came up with an $$\mathcal{O}(n)$$ solution, see for instance [this comment](https://codeforces.com/blog/entry/130647?#comment-1181745).
 
