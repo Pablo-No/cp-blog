@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi!
 
-My name is Pablo Sáez Reyes and I'm currently a second year math major and computer science major student at Polythecnic University of Catalonia.
+My name is Pablo Sáez Reyes and I'm currently a third year math major and computer science major student at Polythecnic University of Catalonia.
 
 One of my main hobbies is competitive programming. My username on most competitive programming platforms is Pablo-No, here are some links to my profiles:
 
