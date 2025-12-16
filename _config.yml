@@ -24,7 +24,7 @@ url: "https://pablo-no.github.io" # the base hostname & protocol for your site, 
 baseurl: "/cp-blog" # the subpath of your site, e.g. /blog
 
 github_username: pablo-no
-linkedin_username: pablo-sáez-reyes-57a09b281
+linkedin_username: pablo-saez-reyes
 
 # Build settings
 markdown: kramdown
